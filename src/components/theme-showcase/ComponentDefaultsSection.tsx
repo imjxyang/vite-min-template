@@ -28,6 +28,8 @@ export function ComponentDefaultsSection() {
             brand badge
           </Badge>
           <Button color="brand.1">Auto contrast sample</Button>
+          <Button color="brand.2">Auto contrast sample</Button>
+          <Button color="brand.9">Auto contrast sample</Button>
         </Group>
       </SectionCard>
 
